@@ -1,4 +1,4 @@
-# app_01
+# Ui Practice Flutter App
 
 Meditation Flutter App 
 

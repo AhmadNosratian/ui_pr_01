@@ -1,3 +1,4 @@
+import 'package:app_01/constants.dart';
 import 'package:app_01/home.dart';
 import 'package:flutter/material.dart';
 
@@ -12,8 +13,8 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData.light().copyWith(
-        primaryColor: Color(0xffe9e8e9),
-        scaffoldBackgroundColor: Color(0xffe9e8e9),
+        primaryColor: kPrimaryColor,
+        scaffoldBackgroundColor: kPrimaryColor,
       ),
       home: HomePage(),
     );
