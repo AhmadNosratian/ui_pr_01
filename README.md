@@ -1,4 +1,7 @@
-# Ui Practice Flutter App
+# Ui Practice Flutter App 01
+
+<img src="https://github.com/AhmadNosratian/ui_pr_01/tree/master/assets/home.png?raw=true" width="350">
+
 
 Meditation Flutter App 
 
